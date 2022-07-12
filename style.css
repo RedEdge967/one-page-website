@@ -45,8 +45,8 @@ p {
 
 .column {
   float: left;
-  width: 10%;
-  padding: 5px;
+  width: 33.3%;
+  padding: 2px;
 }
 
 /* Clearfix (clear floats) */
