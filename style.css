@@ -46,12 +46,12 @@ p {
 .column {
   float: left;
   width: 33.3%;
-  padding: 2px;
+  padding: 5px;
 }
 
 /* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
-  display: table;
+  display: ;
 }
