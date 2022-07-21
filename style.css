@@ -56,7 +56,7 @@ p {
   display: ;
 }
 
-.footer {
+footer {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: #ff0000; /* fallback for old browsers */
