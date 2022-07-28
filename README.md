@@ -10,3 +10,5 @@
 - Simple and clear code
 - No frameworks used
 - Used basic html and css
+
+### Show some love 💕 by starring 🌟 this repository and help me to improve this
