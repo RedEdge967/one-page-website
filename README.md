@@ -1,3 +1,5 @@
 # one-page-website
-a simple one page personal website made because I was bored. still working on this. (will work on this again if I get bored again)
-want to help me with this? sure, why not. open a PR and I really appreciate it.
+- A simple one page personal website made only with HTML and CSS
+- I think this is the simplest website I made
+- You can use this for any purpose
+- Still working on this
